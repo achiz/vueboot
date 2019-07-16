@@ -30,9 +30,7 @@ vueboot/
 		...
 ```
 
-
-
-
+ 
 
 #### 최초 실행
 
@@ -40,7 +38,7 @@ vueboot/
 npm run serve
 ```
 
-
+ 
 
 
 
@@ -61,7 +59,7 @@ module.export = {
 
 
 
-
+ 
 
 이후 빌드
 
