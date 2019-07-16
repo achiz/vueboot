@@ -12,6 +12,8 @@ vue create frontend
 
 사용자 정의 템플릿은 기본으로 셋팅한다.
 
+ 
+
 
 
 #### Vue 프로젝트의 생성위치
@@ -30,11 +32,15 @@ vueboot/
 
 
 
+
+
 #### 최초 실행
 
 ```shell
 npm run serve
 ```
+
+
 
 
 
@@ -52,6 +58,8 @@ module.export = {
     indexPath: '../templates/index.html',
 }
 ```
+
+
 
 
 
